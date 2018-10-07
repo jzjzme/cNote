@@ -1,23 +1,21 @@
-# ethsf-iCash
+# worldblockchainhackathon-cNote
 
-iCash ETH SF Project
+cNote World Blockchain Hackathon Project
 
 ## Startup investment platform for convertible notes/SAFT's
 
 The CNote platform where investors safely invest in startups through convertible notes/SAFTs. To get listed on CNote, startups use Bloom to get a KYC for all founders, proving the legitimacy of the company. After approval, they can list proposals for investors. Investors can view a list of verified companies, view details, and set the appropiate terms for convertible note/SAFTs.
 
-The unique part of CNote outside of the KYC, is the convertible note feature and startup FICO score. Using blockchain to record the milestones of the invested company (transactions #, active user #, revenue), a smart contract will notify the investor when an appropriate milestone is reached, allowing equity to be converted or another loan to be issued. 
+The unique part of CNote outside of the KYC, is the convertible note feature and startup FICO score. Using blockchain to record the milestones of the invested company (transactions #, active user #, revenue), a smart contract will notify the investor when an appropriate milestone is reached, allowing equity to be converted or another loan to be issued.
 
-The startup FICO score is an innovative metric to track the credit worthiness of a startup. Based on transactions and information reported from the loaned value, companies gain a score which can be viewed by new potential investors. This score is also tied to the founders, creating a new type of credit history tied to the startup world. 
+The startup FICO score is an innovative metric to track the credit worthiness of a startup. Based on transactions and information reported from the loaned value, companies gain a score which can be viewed by new potential investors. This score is also tied to the founders, creating a new type of credit history tied to the startup world.
 
 ## Technologies Used  
-  
-- Bloom 
-- Dharma
-- Bloqboard  
+
+- QuarkChain
 
 # frontend
-  
+
 `todo: add api`  
 
 # backend
@@ -49,7 +47,7 @@ The startup FICO score is an innovative metric to track the credit worthiness of
 ## Testing
 
 Running `npm test` will run the unit tests with karma. (not implemented)  
-  
+
 ================
 
 
